@@ -1,14 +1,14 @@
-### Hi there 👋
 
-<!--
-**hafeelnm19/hafeelnm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 👋 Hi, I’m hafeel
 - 👀 I’m interested in team work
 - 🌱 I’m currently an Undergraduate in Department of Computer Science and Engineering (specilized in Integrated Computer Engineering), University of Moratuwa,Sri Lanka.
 - 📫 How to reach me call  +94 769880037
+<!---
+**hafeelnm19/hafeelnm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+Here are some ideas to get you started:
+
 
 
 ### Technologies:
